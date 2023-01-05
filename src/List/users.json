@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "bhupendra",
+        "age" : 22,
+        "gender" : "M"
+    },
+    {
+        "name" : "abhinav",
+        "age" : 23,
+        "gender" : "M"
+    },
+    {
+        "name" : "shivam",
+        "age" : 24,
+        "gender" : "M"
+    },
+    {
+        "name" : "sweta",
+        "age" : 50,
+        "gender" : "F"
+    }
+]
